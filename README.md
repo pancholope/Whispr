@@ -4,6 +4,9 @@ Whispr is a full-stack real-time chat application built using **React**, **Node.
 It allows users to chat instantly, view online/offline status, edit their profiles, and manage conversations with a clean, modern interface.
 
 ---
+- **Live Link: ** [https://Whispr.onrender.com](https://whispr-bzcg.onrender.com) 
+
+
 
 ## 🚀 Features
 
